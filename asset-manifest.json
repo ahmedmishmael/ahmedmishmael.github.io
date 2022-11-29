@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9aae52e4.css",
+    "main.js": "/static/js/main.d5d73ae5.js",
+    "static/media/Background.jpg": "/static/media/Background.6671bc1427e98002f486.jpg",
+    "static/media/Banner.jpg": "/static/media/Banner.1526386ea48a09392d06.jpg",
+    "static/media/Instagram.png": "/static/media/Instagram.af89aec525f70804f62c.png",
+    "static/media/C++.png": "/static/media/C++.cdb7e0cd4063a942bf33.png",
+    "static/media/Ahmed Ishmael Pic.jpg": "/static/media/Ahmed Ishmael Pic.ddacdffd0f252c4ac690.jpg",
+    "static/media/Facebook.png": "/static/media/Facebook.6e8f963b03d4e86760ea.png",
+    "static/media/React.png": "/static/media/React.e95ef4423fa6bfe3a76a.png",
+    "static/media/Twitter.png": "/static/media/Twitter.3492673f1239b64d2dca.png",
+    "static/media/YouTube.png": "/static/media/YouTube.66045186065fd50c35a4.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.2fdccc8f64488c89d2c8.png",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.b4be5f5674fa9e0cecdd.png",
+    "static/media/HTML.png": "/static/media/HTML.3a17a51f21714316bb04.png",
+    "static/media/CSS.png": "/static/media/CSS.ea093966994539702c2e.png",
+    "static/media/Logo.png": "/static/media/Logo.ef3cafad49b3abcf8fdd.png",
+    "static/media/Articles.jpg": "/static/media/Articles.1984af795cf1fa4d9371.jpg",
+    "static/media/JavaScript.png": "/static/media/JavaScript.82a57ebcbe5a3378d94e.png",
+    "static/media/TypeScript.png": "/static/media/TypeScript.af108db04a54d784da9b.png",
+    "static/media/Coding Logo.png": "/static/media/Coding Logo.eaa58f1a7737cd897de0.png",
+    "static/media/Ui-Ux Logo.png": "/static/media/Ui-Ux Logo.c974b02507b5b2eb9238.png",
+    "index.html": "/index.html",
+    "main.9aae52e4.css.map": "/static/css/main.9aae52e4.css.map",
+    "main.d5d73ae5.js.map": "/static/js/main.d5d73ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aae52e4.css",
+    "static/js/main.d5d73ae5.js"
+  ]
+}

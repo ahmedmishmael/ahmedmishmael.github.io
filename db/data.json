@@ -1,0 +1,207 @@
+[
+  {
+    "id": "project1",
+    "title": "Clock App",
+    "description": "Simple Clock App",
+    "featured": false,
+    "category": "frontend projects",
+    "img": "db/images/clockapp.png",
+    "languages": "HTML,CSS and JavaScript",
+    "github": "https://github.com/ahmedmishmael/clockapp",
+    "demo": "https://ahmedmishmael.github.io/clockapp/"
+  },
+  {
+    "id": "project2",
+    "title": "iCalculator",
+    "description": "Calculator App",
+    "featured": false,
+    "category": "frontend projects",
+    "img": "db/images/iCalculator.png",
+    "languages": "HTML,CSS and JavaScript",
+    "github": "https://github.com/ahmedmishmael/icalculator",
+    "demo": "https://ahmedmishmael.github.io/icalculator/"
+  },
+  {
+    "id": "project3",
+    "title": "iCurrency",
+    "description": "Currency Convertor App",
+    "featured": false,
+    "category": "frontend projects",
+    "img": "db/images/iCurrency.png",
+    "languages": "HTML,CSS and JavaScript",
+    "github": "https://github.com/ahmedmishmael/icurrency",
+    "demo": "https://ahmedmishmael.github.io/icurrency/"
+  },
+  {
+    "id": "project4",
+    "title": "David Chu China Bistro",
+    "description": "Restaurant Website",
+    "featured": false,
+    "category": "frontend projects",
+    "img": "db/images/davidchuchinabistro.png",
+    "languages": "HTML,CSS, AJAX and JavaScript",
+    "github": "https://github.com/ahmedmishmael/davidchu",
+    "demo": "https://ahmedmishmael.github.io/davidchu/"
+  },
+  {
+    "id": "project5",
+    "title": "Cara",
+    "description": "E-Commerce Website",
+    "featured": true,
+    "category": "frontend projects",
+    "img": "db/images/Cara.png",
+    "languages": "HTML,CSS and JavaScript",
+    "github": "https://github.com/ahmedmishmael/cara",
+    "demo": "https://ahmedmishmael.github.io/cara/"
+  },
+  {
+    "id": "project6",
+    "title": "Lusion",
+    "description": "E-Commerce Website",
+    "featured": true,
+    "category": "frontend projects",
+    "img": "db/images/Lusion.png",
+    "languages": "React JS",
+    "github": "https://github.com/ahmedmishmael/Lusion",
+    "demo": "https://ahmedmishmael.github.io/Lusion/"
+  },
+  {
+    "id": "project7",
+    "title": "Ahmed Ishmael Website",
+    "description": "Ahmed Ishmael Version 1.0",
+    "featured": true,
+    "category": "frontend projects",
+    "img": "db/images/Version 1.0.jpeg",
+    "languages": "HTML,CSS and JavaScript",
+    "github": "https://github.com/ahmedmishmael/version1.0",
+    "demo": "https://ahmedmishmael.github.io/version1.0/"
+  },
+  {
+    "id": "slide2",
+    "title": "Ahmed Ishmael CV",
+    "description": "Ahmed Ishmael CV",
+    "category": "gallery",
+    "img": "db/images/Ahmed Ishmael CV.png"
+  },
+  {
+    "id": "slide3",
+    "title": "Clock App",
+    "description": "Simple Clock App",
+    "category": "gallery",
+    "img": "db/images/clockapp.png"
+  },
+  {
+    "id": "slide4",
+    "title": "iCalculator",
+    "description": "Calculator App",
+    "category": "gallery",
+    "img": "db/images/iCalculator.png"
+  },
+  {
+    "id": "slide5",
+    "title": "iCurrency",
+    "description": "Currency Convertor App",
+    "category": "gallery",
+    "img": "db/images/iCurrency.png"
+  },
+  {
+    "id": "slide6",
+    "title": "David Chu China Bistro",
+    "description": "Restaurant Website",
+    "category": "gallery",
+    "img": "db/images/davidchuchinabistro.png"
+  },
+  {
+    "id": "slide7",
+    "title": "Cara",
+    "description": "E-Commerce Website",
+    "category": "gallery",
+    "img": "db/images/Cara.png"
+  },
+  {
+    "id": "slide8",
+    "title": "Lusion",
+    "description": "E-Commerce Website",
+    "category": "gallery",
+    "img": "db/images/Lusion.png"
+  },
+  {
+    "id": "slide9",
+    "title": "Ahmed Ishmael Website",
+    "description": "Ahmed Ishmael Version 1.0",
+    "category": "gallery",
+    "img": "db/images/Lusion.png"
+  },
+  {
+    "id": "download2",
+    "title": "Ahmed Ishmael CV",
+    "featured": true,
+    "category": "downloads",
+    "type": "PDF",
+    "size": "71.7 KB",
+    "link": "db/downloads/Ahmed Ishmael CV.pdf"
+  },
+  {
+    "id": "download3",
+    "title": "Clock App",
+    "featured": false,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "415 KB",
+    "link": "db/downloads/Clock App.rar/"
+  },
+  {
+    "id": "download4",
+    "title": "iCalculator",
+    "featured": false,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "2.32 MB",
+    "link": "db/downloads/iCalculator.rar"
+  },
+  {
+    "id": "download5",
+    "title": "iCurrency",
+    "featured": false,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "642 KB",
+    "link": "db/downloads/iCurrency.rar"
+  },
+  {
+    "id": "download6",
+    "title": "David Chu China Bistro",
+    "featured": true,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "13.6 MB",
+    "link": "db/downloads/David Chu's China Pistro.rar"
+  },
+  {
+    "id": "download7",
+    "title": "Cara",
+    "featured": true,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "5.42 MB",
+    "link": "db/downloads/Cara.rar"
+  },
+  {
+    "id": "download8",
+    "title": "Lusion",
+    "featured": true,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "2.40 MB",
+    "link": "db/downloads/Lusion.rar"
+  },
+  {
+    "id": "download9",
+    "title": "Ahmed Ishmael Website",
+    "featured": true,
+    "category": "downloads",
+    "type": "Source code",
+    "size": "3.80 MB",
+    "link": "db/downloads/Version 1.0.rar"
+  }
+]
