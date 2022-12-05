@@ -6,7 +6,7 @@
     "featured": false,
     "category": "frontend projects",
     "type": "js",
-    "img": "db/images/clockapp.png",
+    "url": "db/images/clockapp.png",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/clockapp",
     "demo": "https://ahmedmishmael.github.io/clockapp/"
