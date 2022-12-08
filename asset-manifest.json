@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.db2bbf18.css",
-    "main.js": "/static/js/main.e23f3b1e.js",
+    "main.css": "/static/css/main.649222db.css",
+    "main.js": "/static/js/main.3df7163e.js",
     "static/media/Background.png": "/static/media/Background.b54eddf985a1a1370487.png",
     "static/media/Header.jpg": "/static/media/Header.aa5bab299b8b9b884a1e.jpg",
     "static/media/Ahmed Ishmael Pic.jpg": "/static/media/Ahmed Ishmael Pic.ddacdffd0f252c4ac690.jpg",
@@ -9,11 +9,11 @@
     "static/media/Coding Logo.png": "/static/media/Coding Logo.89e5c50c78a6cfbbbbf1.png",
     "static/media/Ui-Ux Logo.png": "/static/media/Ui-Ux Logo.e5fcd5fb39d6942386f3.png",
     "index.html": "/index.html",
-    "main.db2bbf18.css.map": "/static/css/main.db2bbf18.css.map",
-    "main.e23f3b1e.js.map": "/static/js/main.e23f3b1e.js.map"
+    "main.649222db.css.map": "/static/css/main.649222db.css.map",
+    "main.3df7163e.js.map": "/static/js/main.3df7163e.js.map"
   },
   "entrypoints": [
-    "static/css/main.db2bbf18.css",
-    "static/js/main.e23f3b1e.js"
+    "static/css/main.649222db.css",
+    "static/js/main.3df7163e.js"
   ]
 }

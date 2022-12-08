@@ -37,6 +37,18 @@
   },
   {
     "id": "project4",
+    "title": "Ahmed Ishmael Website",
+    "description": "Portfolio Website",
+    "featured": false,
+    "category": "frontend projects",
+    "type": "react",
+    "img": "db/images/AhmedIshmael.jpeg",
+    "languages": "React JS",
+    "github": "https://github.com/ahmedmishmael",
+    "demo": "https://ahmedmishmael.github.io"
+  },
+  {
+    "id": "project5",
     "title": "David Chu China Bistro",
     "description": "Restaurant Website",
     "featured": true,
@@ -48,7 +60,7 @@
     "demo": "https://ahmedmishmael.github.io/davidchu/"
   },
   {
-    "id": "project5",
+    "id": "project6",
     "title": "Cara",
     "description": "E-Commerce Website",
     "featured": true,
@@ -60,8 +72,8 @@
     "demo": "https://ahmedmishmael.github.io/cara/"
   },
   {
-    "id": "project6",
-    "title": "Lusion",
+    "id": "project7",
+    "title": "LUSION",
     "description": "E-Commerce Website",
     "featured": true,
     "category": "frontend projects",
@@ -72,13 +84,13 @@
     "demo": "https://ahmedmishmael.github.io/Lusion/"
   },
   {
-    "id": "project7",
-    "title": "Eskil",
+    "id": "project8",
+    "title": "ESKIL",
     "description": "Furniture Store",
     "featured": true,
     "category": "frontend projects",
     "type": "react",
-    "img": "db/images/Version 1.0.jpeg",
+    "img": "db/images/ESKIL.jpeg",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael/eskil",
     "demo": "https://ahmedmishmael.github.io/eskil/"
