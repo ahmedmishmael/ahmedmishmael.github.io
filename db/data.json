@@ -9,7 +9,8 @@
     "img": "db/images/aclock.jpeg",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/aclock",
-    "demo": "https://ahmedmishmael.github.io/aclock"
+    "demo": "https://ahmedmishmael.github.io/aclock",
+    "params": "aclock"
   },
   {
     "id": "project2",
@@ -21,7 +22,8 @@
     "img": "db/images/acalculator.jpeg",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/acalculator",
-    "demo": "https://ahmedmishmael.github.io/acalculator/"
+    "demo": "https://ahmedmishmael.github.io/acalculator/",
+    "params": "acalculator"
   },
   {
     "id": "project3",
@@ -33,31 +35,34 @@
     "img": "db/images/acurrency.jpeg",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/acurrency",
-    "demo": "https://ahmedmishmael.github.io/acurrency/"
+    "demo": "https://ahmedmishmael.github.io/acurrency/",
+    "params": "acurrency"
   },
   {
     "id": "project4",
     "title": "Ahmed Ishmael Website",
     "description": "Portfolio Website",
-    "featured": false,
+    "featured": true,
     "category": "frontend projects",
     "type": "react",
     "img": "db/images/ahmedishmael.jpeg",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael",
-    "demo": "https://ahmedmishmael.github.io"
+    "demo": "https://ahmedmishmael.github.io",
+    "params": "ahmedishmaelwebsite"
   },
   {
     "id": "project5",
     "title": "David Chu China Bistro",
     "description": "Restaurant Website",
-    "featured": true,
+    "featured": false,
     "category": "frontend projects",
     "type": "js",
     "img": "db/images/davidchuchinabistro.png",
     "languages": "HTML,CSS, AJAX and JavaScript",
     "github": "https://github.com/ahmedmishmael/davidchu",
-    "demo": "https://ahmedmishmael.github.io/davidchu/"
+    "demo": "https://ahmedmishmael.github.io/davidchu/",
+    "params": "davidchu"
   },
   {
     "id": "project6",
@@ -69,7 +74,8 @@
     "img": "db/images/cara.png",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/cara",
-    "demo": "https://ahmedmishmael.github.io/cara/"
+    "demo": "https://ahmedmishmael.github.io/cara/",
+    "params": "cara"
   },
   {
     "id": "project7",
@@ -80,8 +86,9 @@
     "type": "react",
     "img": "db/images/lusion.png",
     "languages": "React JS",
-    "github": "https://github.com/ahmedmishmael/Lusion",
-    "demo": "https://ahmedmishmael.github.io/Lusion/"
+    "github": "https://github.com/ahmedmishmael/lusion",
+    "demo": "https://ahmedmishmael.github.io/lusion/",
+    "params": "lusion"
   },
   {
     "id": "project8",
@@ -93,6 +100,7 @@
     "img": "db/images/eskil.jpeg",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael/eskil",
-    "demo": "https://ahmedmishmael.github.io/eskil/"
+    "demo": "https://ahmedmishmael.github.io/eskil/",
+    "params": "eskil"
   }
 ]
