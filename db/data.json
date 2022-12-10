@@ -25,7 +25,7 @@
   },
   {
     "id": "project3",
-    "title": "iCurrency",
+    "title": "ACurrency",
     "description": "Currency Convertor App",
     "featured": false,
     "category": "frontend projects",
@@ -42,7 +42,7 @@
     "featured": false,
     "category": "frontend projects",
     "type": "react",
-    "img": "db/images/AhmedIshmael.jpeg",
+    "img": "db/images/ahmedishmael.jpeg",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael",
     "demo": "https://ahmedmishmael.github.io"
@@ -66,7 +66,7 @@
     "featured": true,
     "category": "frontend projects",
     "type": "js",
-    "img": "db/images/Cara.png",
+    "img": "db/images/cara.png",
     "languages": "HTML,CSS and JavaScript",
     "github": "https://github.com/ahmedmishmael/cara",
     "demo": "https://ahmedmishmael.github.io/cara/"
@@ -78,7 +78,7 @@
     "featured": true,
     "category": "frontend projects",
     "type": "react",
-    "img": "db/images/Lusion.png",
+    "img": "db/images/lusion.png",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael/Lusion",
     "demo": "https://ahmedmishmael.github.io/Lusion/"
@@ -90,7 +90,7 @@
     "featured": true,
     "category": "frontend projects",
     "type": "react",
-    "img": "db/images/ESKIL.jpeg",
+    "img": "db/images/eskil.jpeg",
     "languages": "React JS",
     "github": "https://github.com/ahmedmishmael/eskil",
     "demo": "https://ahmedmishmael.github.io/eskil/"
