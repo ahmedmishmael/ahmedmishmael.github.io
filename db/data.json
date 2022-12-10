@@ -1,27 +1,27 @@
 [
   {
     "id": "project1",
-    "title": "Clock App",
+    "title": "AClock",
     "description": "Simple Clock App",
     "featured": false,
     "category": "frontend projects",
     "type": "js",
-    "img": "db/images/clock-app.png",
+    "img": "db/images/aclock.jpeg",
     "languages": "HTML,CSS and JavaScript",
-    "github": "https://github.com/ahmedmishmael/clockapp",
-    "demo": "https://ahmedmishmael.github.io/clockapp/"
+    "github": "https://github.com/ahmedmishmael/aclock",
+    "demo": "https://ahmedmishmael.github.io/aclock"
   },
   {
     "id": "project2",
-    "title": "iCalculator",
+    "title": "ACalculator",
     "description": "Calculator App",
     "featured": false,
     "category": "frontend projects",
     "type": "js",
-    "img": "db/images/iCalculator.png",
+    "img": "db/images/acalculator.jpeg",
     "languages": "HTML,CSS and JavaScript",
-    "github": "https://github.com/ahmedmishmael/icalculator",
-    "demo": "https://ahmedmishmael.github.io/icalculator/"
+    "github": "https://github.com/ahmedmishmael/acalculator",
+    "demo": "https://ahmedmishmael.github.io/acalculator/"
   },
   {
     "id": "project3",
@@ -30,10 +30,10 @@
     "featured": false,
     "category": "frontend projects",
     "type": "js",
-    "img": "db/images/iCurrency.png",
+    "img": "db/images/acurrency.jpeg",
     "languages": "HTML,CSS and JavaScript",
-    "github": "https://github.com/ahmedmishmael/icurrency",
-    "demo": "https://ahmedmishmael.github.io/icurrency/"
+    "github": "https://github.com/ahmedmishmael/acurrency",
+    "demo": "https://ahmedmishmael.github.io/acurrency/"
   },
   {
     "id": "project4",
