@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.20527b8b.css",
-    "main.js": "/static/js/main.0ebc279b.js",
+    "main.js": "/static/js/main.d5b4fc64.js",
     "static/media/Background.png": "/static/media/Background.b54eddf985a1a1370487.png",
     "static/media/Header.jpg": "/static/media/Header.aa5bab299b8b9b884a1e.jpg",
     "static/media/Ahmed Ishmael Pic.jpg": "/static/media/Ahmed Ishmael Pic.ddacdffd0f252c4ac690.jpg",
@@ -10,10 +10,10 @@
     "static/media/Ui-Ux Logo.png": "/static/media/Ui-Ux Logo.e5fcd5fb39d6942386f3.png",
     "index.html": "/index.html",
     "main.20527b8b.css.map": "/static/css/main.20527b8b.css.map",
-    "main.0ebc279b.js.map": "/static/js/main.0ebc279b.js.map"
+    "main.d5b4fc64.js.map": "/static/js/main.d5b4fc64.js.map"
   },
   "entrypoints": [
     "static/css/main.20527b8b.css",
-    "static/js/main.0ebc279b.js"
+    "static/js/main.d5b4fc64.js"
   ]
 }
