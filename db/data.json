@@ -73,7 +73,7 @@
     "type": "js",
     "img": "db/images/cara.png",
     "languages": "HTML,CSS and JavaScript",
-    "github": "https://ahmedmishmael.github.io/cara/",
+    "github": "https://github.com/ahmedmishmael/cara",
     "demo": "https://ahmedmishmael.github.io/cara/",
     "params": "cara"
   },
@@ -102,5 +102,17 @@
     "github": "https://github.com/ahmedmishmael/eskil",
     "demo": "https://ahmedmishmael.github.io/eskil/",
     "params": "eskil"
+  },
+  {
+    "id": "project9",
+    "title": "Continental Hurghada",
+    "description": "Continental Hotel Hurghada Clone",
+    "featured": true,
+    "category": "frontend projects",
+    "type": "react",
+    "img": "db/images/continental.jpeg",
+    "languages": "React - Next JS",
+    "github": "https://github.com/ahmedmishmael/Continental-Hotel-Hurghada",
+    "demo": "https://continental-hurghada.vercel.app/"
   }
 ]
